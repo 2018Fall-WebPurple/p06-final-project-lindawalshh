@@ -1,0 +1,107 @@
+/* Name: Linda Walsh
+*  Date: 18 January 2019
+*  Lab: C13 Fluid Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 80%  ;
+    background-color: seashell;
+    margin: auto;
+
+}
+
+h1 {
+    padding: 10px;
+}
+.mainheading { text-align: center;
+                font-family: Monaco;
+                font-size: 80px;
+                font-variant: small-caps;
+                color:purple;
+                }
+.subheading { text-align: center;
+                font-family: Monaco;
+                font-size: 55px;
+                font-variant: small-caps;
+                color: purple;}
+header {
+    background-color: plum;
+}
+
+#sidebarA { font-family: "Lucida Console";
+            color: purple;
+            font-variant: small-caps;
+            font-size: 20px;
+    text-align: center;
+    width:20% ;
+    float: left;
+    
+}
+.sideh1 { text-decoration: underline;
+        font-size: 25px;
+        font-family: Monaco;
+        color: purple;
+        font-variant: small-caps;}
+.sideh2 { font-size: 20px;}
+main {
+    width: 55% ;
+    float: left;
+    text-align: justify;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#sidebarB { font-family: "Lucida Console";
+            color: purple;
+            font-variant: small-caps;
+            font-size: 20px;
+            text-align: center;
+            margin-left: 10px;
+    width: ;
+    height: 500px;
+    float: ;
+}
+footer { border-top: 5px solid mediumvioletred;
+        margin: 10px 0px 0px 0px;
+    
+    clear: both ;
+}
+#logo { width: 140px;
+        height: 200px;
+        float: left}
+#logo2 { width: 140px;
+         height: 200px;
+         float: right;}
+#youngemma { height: 200px;
+            width: 140px;
+            border: 2px solid purple;
+            margin-top: 10px;}
+#youngemmacaption {font-size: 15px;
+                    color: black;}
+#emmasam {height: 200px;
+            width: 145px;
+            margin-top: 10px;
+            border: 2px solid purple;}
+#emmasamcap { font-size: 15px;
+                color: black;}
+#headshot { height: 125px;
+            margin: 0px 10px 10px 10px;
+            border: 2px solid purple;
+            float: left;}
+.mainh1 { font-size: 37px;
+            font-family: Monaco;
+            color: rebeccapurple;
+            font-variant: small-caps;}
+.h2info { font-size: 15px;}
+.mainh2 { font-family: Monaco; color: rebeccapurple; font-variant: small-caps;}
+#un { float: right;
+        height: 275px;
+        margin: 15px;
+        border: 2px solid purple;}
+#sources { float: right;
+            color:red;}
+ul {padding-left: 20px; }
